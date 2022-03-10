@@ -1,0 +1,21 @@
+@media (max-width: 600px){
+    .img__contain{
+        width: 80%;
+        height: 100%;
+    }
+
+    .image__inner{
+        width: 84%;
+        height: auto;
+    }
+
+    .left{
+        left: 6px;
+        font-size: 30px;
+    }
+
+    .right{
+        right: 6px;
+        font-size: 30px;
+    }
+}
